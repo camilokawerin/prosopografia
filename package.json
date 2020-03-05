@@ -1,0 +1,38 @@
+{
+  "name": "awesome-framework",
+  "version": "1.0.0",
+  "description": "The New Awesome Framework",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camilokawerin/awesome-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilokawerin/awesome-framework/issues"
+  },
+  "homepage": "https://github.com/camilokawerin/awesome-framework#README",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "fiber": "^1.0.4",
+    "mini-css-extract-plugin": "^0.8.0",
+    "node-sass": "^4.12.0",
+    "popper.js": "^1.15.0",
+    "postcss-loader": "^3.0.0",
+    "sass": "^1.22.12",
+    "sass-loader": "^8.0.0",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "mustache": "^3.1.0",
+    "vanilla-lazyload": "^12.4.0"
+  }
+}

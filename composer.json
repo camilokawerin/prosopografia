@@ -1,0 +1,11 @@
+{
+    "name": "awesome-framework/framework",
+    "description": "The New Awesome Framework",
+    "authors": [
+        {
+            "name": "Camilo Kawerin",
+            "email": "camilokawerin@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,16 @@
+main {
+  padding: 60px 15px 0;
+}
+
+font {
+  font-size: 100% !important;
+}
+.xdebug-var-dump small:first-child {
+  display: none;
+}
+.xdebug-error-output {
+  list-style: none;
+  padding: 10px 30px;
+  background-color: lightgrey;
+  border-radius: 4px;
+}
