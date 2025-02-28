@@ -1,6 +1,6 @@
 <nav id="navbar" class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
 	<div class="container">
-	  <a class="navbar-brand" href="/">My Store</a>
+	  <a class="navbar-brand" href="/">Prosopografía</a>
 	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
 	    <span class="navbar-toggler-icon"></span>
 	  </button>

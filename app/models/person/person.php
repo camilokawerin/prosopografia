@@ -17,6 +17,9 @@ class Person extends \Model\Model {
   public $alt_surname = [ 'Type\Text', [ 'label' => 'Alternative surname' ] ];
   public $candidacy = [ 'Model\Datalist', [ 'Candidacy\Candidacy', 'id' ], [ 'label' => 'Candidacy' ] ];
 
+  // agregar __construct para setear cada propiedad
+  // $this->id = new Type\Number([ 'label' => 'ID' ]);
+
   public static function title() {
     return 'Personas';
   }
